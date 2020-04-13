@@ -1,6 +1,5 @@
 # My Website Homepage
 
 I don't know what to do with this...
-Btw this page uses godawful HTML so yeah...
 
 [>> View Page >>](http://iamthe2ndhuman.github.io)
